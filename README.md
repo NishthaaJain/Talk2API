@@ -8,7 +8,7 @@ A modern, full-featured **FastAPI** project designed for managing users and thei
 
 | Dark Mode (Deep Ocean/Neon) | Light Mode (Sunset/Coral) |
 | :---: | :---: |
-| ![Screenshot of the Chatbot in Dark Mode (Deep Ocean/Neon)](./path/to/dark_theme_screenshot.png) | ![Screenshot of the Chatbot in Light Mode (Sunset/Coral)](./path/to/light_theme_screenshot.png) |
+| ![Screenshot of the Chatbot in Dark Mode](./dark_theme_screenshot.png) | ![Screenshot of the Chatbot in Light Mode](./light_theme_screenshot.png) |
 
 ---
 
